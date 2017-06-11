@@ -1,6 +1,8 @@
-试试在同一个仓库中是否可以通过使用　--global　来使用不同的git配置
+试试在同一个仓库中是否可以通过使用　--global　来使用不同的git配置：
+第一次提交使用的配置
 １.	git config --global user.name "yinze"
 	git config --global user.email "yinze@cvte.com"
 
+第二次提交使用的配置
 2.	git config --global user.name "silverze"
 	git config --global user.email "silverze@foxmail.com"
