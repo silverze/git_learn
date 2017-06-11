@@ -6,3 +6,5 @@
 第二次提交使用的配置
 2.	git config --global user.name "silverze"
 	git config --global user.email "silverze@foxmail.com"
+
+实验证明是可以通过这样的方式进行用户信息配置的！！！
