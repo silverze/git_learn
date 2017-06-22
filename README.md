@@ -1,5 +1,8 @@
 # 学习Git
 
+## git在线书籍：
+  https://git-scm.com/book/zh/v2
+
 ## git使用、各种使用情景模拟
   模拟提交，产生冲突，合并分支...。
 
