@@ -1,0 +1,16 @@
+第一天：
+       1：学习远程仓库访问，克隆
+          git clone https://github.com/silverze/git_learn.git
+       2:查询当前文件状态
+          git status
+       3:加入本地库修改
+          git add *** 修改的文件名
+       4:写log
+          git commit
+       5：提交本地修改
+          git push origin
+       6：如果有冲突，先可以用git fetch origin  在git log -5 origin/** 查看最新Log
+          首先确认自己之前的修改有commit 版本[很重要]
+          reset 到之前自己的版本，使用 git reset --hard ×××
+       7：拉最新更新下来 git pull
+       8: 将之前commit的版本 git cherry-pick ××版本。再git push origin上去即可
