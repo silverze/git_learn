@@ -42,3 +42,13 @@
 	s 652969c finish task2
 	s 7b2174b finish task3
 ```
+
+## 学习任务4的操作:
+4.1 新创建一个分支指令:  
+`git branch yinze  #yinze为分支名`  
+4.2 切换至指定的一个分支:  
+`git checkout yinze #yinze为分支名`   
+4.3 上述两个步骤使用一条指令完成:  
+`git checkout -b yinze`  
+4.4 在新的分支上做出修改，提交后，推送指令：  
+`git push origin yinze`
